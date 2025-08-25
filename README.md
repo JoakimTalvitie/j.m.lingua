@@ -1,4 +1,4 @@
-# J.M.Lingua
+# J.M.Lingua Site
 
 ## Run Locally
 
